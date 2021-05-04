@@ -4,11 +4,22 @@ May the Forth Be With You
 This project celebrates the [Star Wars Day] with the [Forth]
 programming language.
 
-May 4 is the Star Wars Day. The date (May the Fourth) is a pun on the
+[![View Source][Source SVG]](may4.fs)
+[![View Output][Output SVG]](may4.txt)
+[![MIT License][License SVG]](LICENSE.md)
+[![Twitter][Twitter SVG]][Twitter URL]
+
+[Source SVG]: https://img.shields.io/badge/view-source-brightgreen
+[Output SVG]: https://img.shields.io/badge/view-output-brightgreen
+[License SVG]: https://img.shields.io/badge/license-MIT-%233ea639
+[Twitter SVG]: https://img.shields.io/badge/twitter-%40susam-%231da1f2
+[Twitter URL]: https://twitter.com/intent/follow?screen_name=susam
+
+May 4 is the Star Wars Day. The date (May the fourth) is a pun on the
 popular Star Wars catchphrase, "May the Force be with you." Forth, the
 programming language, is named so as a shortened form of the word
 "Fourth". The name stood for "fourth generation". Quoting from
-[Forth - The Early Years][hopl]:
+[Forth - The Early Years][HOPL]:
 
 > The file holding the interpreter was labeled FORTH, for 4th (next)
 > generation software - but the operating system restricted file names
@@ -25,7 +36,7 @@ a lot of sense to celebrate May the 4th with some Forth code.
 
 [Star Wars Day]: https://en.wikipedia.org/wiki/Star_Wars_Day
 [Forth]: https://en.wikipedia.org/wiki/Forth_(programming_language)
-[hopl]: https://web.archive.org/web/20060615025259/http://www.colorforth.com/HOPL.html
+[HOPL]: https://web.archive.org/web/20060615025259/http://www.colorforth.com/HOPL.html
 
 
 Source
@@ -176,7 +187,6 @@ Thank You
 Thank you for visiting this project. I hope this encourages you to
 [learn a little bit of Forth][Starting Forth].
 
-[Follow me on Twitter][Twitter].
+[Follow me on Twitter][Twitter URL].
 
 [Starting Forth]: https://www.forth.com/starting-forth/
-[Twitter]: https://twitter.com/intent/follow?screen_name=susam
