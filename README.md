@@ -36,7 +36,7 @@ a lot of sense to celebrate May the 4th with some Forth code.
 
 [Star Wars Day]: https://en.wikipedia.org/wiki/Star_Wars_Day
 [Forth]: https://en.wikipedia.org/wiki/Forth_(programming_language)
-[HOPL]: https://web.archive.org/web/20060615025259/http://www.colorforth.com/HOPL.html
+[HOPL]: https://web.archive.org/web/20160409083846/http://www.colorforth.com/HOPL.html
 
 
 Source
