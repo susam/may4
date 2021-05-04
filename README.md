@@ -18,6 +18,11 @@ So this repository consisting of Forth source code to print an
 slightly altered Star Wars catchphrase using ASCII stars (asterisk) is
 like a double pun! Or is that a triple pun?
 
+Also, if Yoda were a programmer, I think Forth would be his most
+favourite programming language. Yoda would say, "A forth programmer I
+am. Hrmmm," and he would add two numbers with, `1 2 +`. It just makes
+a lot of sense to celebrate May the 4th with some Forth code.
+
 [Star Wars Day]: https://en.wikipedia.org/wiki/Star_Wars_Day
 [Forth]: https://en.wikipedia.org/wiki/Forth_(programming_language)
 [hopl]: https://web.archive.org/web/20060615025259/http://www.colorforth.com/HOPL.html
