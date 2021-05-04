@@ -14,9 +14,9 @@ programming language, is named so as a shortened form of the word
 > generation software - but the operating system restricted file names
 > to 5 characters.
 
-So this repository consisting of Forth source code to print an
-slightly altered Star Wars catchphrase using ASCII stars (asterisk) is
-like a double pun! Or is that a triple pun?
+So this repository consisting of Forth source code to print a slightly
+altered Star Wars catchphrase using ASCII stars (asterisk) is like a
+double pun! Or is that a triple pun?
 
 Also, if Yoda were a programmer, I think Forth would be his most
 favourite programming language. Yoda would say, "A forth programmer I
