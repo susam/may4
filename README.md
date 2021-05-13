@@ -26,11 +26,11 @@ programming language, is named so as a shortened form of the word
 > to 5 characters.
 
 So this repository consisting of Forth source code to print a slightly
-altered Star Wars catchphrase using ASCII stars (asterisk) is like a
+altered Star Wars catchphrase using ASCII stars (asterisks) is like a
 double pun! Or is that a triple pun?
 
 Also, if Yoda were a programmer, I think Forth would be his most
-favourite programming language. Yoda would say, "A forth programmer I
+favourite programming language. Yoda would say, "A Forth programmer I
 am. Hrmmm," and he would add two and two with, `2 2 +`. It just makes
 a lot of sense to celebrate May the 4th with some Forth code.
 
