@@ -7,13 +7,16 @@ programming language.
 [![View Source][Source SVG]](may4.fs)
 [![View Output][Output SVG]](may4.txt)
 [![MIT License][License SVG]](LICENSE.md)
+[![Mastodon][Mastodon SVG]][Mastodon URL]
 [![Twitter][Twitter SVG]][Twitter URL]
 
 [Source SVG]: https://img.shields.io/badge/view-source-brightgreen
 [Output SVG]: https://img.shields.io/badge/view-output-brightgreen
-[License SVG]: https://img.shields.io/badge/license-MIT-%233ea639
-[Twitter SVG]: https://img.shields.io/badge/twitter-%40susam-%231da1f2
-[Twitter URL]: https://twitter.com/intent/follow?screen_name=susam
+[License SVG]: https://img.shields.io/badge/license-MIT-%233a3
+[Mastodon SVG]: https://img.shields.io/badge/mastodon-%40susam-%2355f
+[Mastodon URL]: https://mastodon.social/@susam
+[Twitter SVG]: https://img.shields.io/badge/twitter-%40susam-%2329e
+[Twitter URL]: https://twitter.com/susam
 
 May 4 is the Star Wars Day. The date (May the fourth) is a pun on the
 popular Star Wars catchphrase, "May the Force be with you." Forth, the
@@ -186,6 +189,8 @@ Thank You
 
 Thank you for visiting this project. I hope this encourages you to
 [learn a little bit of Forth][Starting Forth].
+
+[Follow me on Mastodon][Mastodon URL].
 
 [Follow me on Twitter][Twitter URL].
 
